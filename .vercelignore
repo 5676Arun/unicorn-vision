@@ -1,0 +1,10 @@
+# Ignore Python files
+*.py
+**/run-server.js
+
+# Development Directories
+.next
+node_modules
+
+# Log files
+*.log 
